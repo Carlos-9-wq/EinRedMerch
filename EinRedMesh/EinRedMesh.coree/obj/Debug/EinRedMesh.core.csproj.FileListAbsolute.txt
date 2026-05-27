@@ -1,0 +1,12 @@
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\bin\Debug\EinRedMesh.coree.dll.config
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\bin\Debug\EinRedMesh.coree.dll
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\bin\Debug\EinRedMesh.coree.pdb
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\bin\Debug\EntityFramework.dll
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\bin\Debug\EntityFramework.SqlServer.dll
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\bin\Debug\EntityFramework.xml
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\bin\Debug\EntityFramework.SqlServer.xml
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\obj\Debug\EinRedMesh.core.csproj.AssemblyReference.cache
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\obj\Debug\EinRedMesh.core.csproj.CoreCompileInputs.cache
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\obj\Debug\EinRedMe.32A874A5.Up2Date
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\obj\Debug\EinRedMesh.coree.dll
+E:\EinRedMerch\EinRedMesh\EinRedMesh.coree\obj\Debug\EinRedMesh.coree.pdb

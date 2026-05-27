@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace EinRedMesh.coree
+{
+    [Table("Alumno")]
+    public class AlumnoEntity
+    {
+        public int Id {  get; set; }
+        public string NumeroCuenta { get; set; }
+        public string ApellidoPaterno { get; set; }
+        public string ApellidoMaterno { get; set; }
+        public DateTime FechaNacimiento { get; set; }
+        public SexoEnum Sexo {  get; set; }
+        public int IdGrupo { get; set; }
+        public bool EstaActivo { get; set; }
+    }
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EinRedMesh.API/EinRedMesh.API.csproj" />
+  <Project Path="EinRedMesh.coree/EinRedMesh.core.csproj" Id="ec6daaaf-f257-47db-9d48-455bafceb27c" />
+  <Project Path="EinRedMesh.Data/EinRedMesh.Data.csproj" />
+</Solution>
